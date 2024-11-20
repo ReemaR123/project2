@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: ReemaR123/project2:latest
+        image: reemar123/project2:latest
         ports:
         - containerPort: 80
